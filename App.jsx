@@ -1,0 +1,1 @@
+export default function App(){return <h1>Mega Rifa</h1>;}
